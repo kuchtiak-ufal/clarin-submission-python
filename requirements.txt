@@ -1,0 +1,1 @@
+dspace-rest-client @ git+https://github.com/ufal/dspace-rest-python.git
